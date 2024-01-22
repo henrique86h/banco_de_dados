@@ -19,3 +19,11 @@
 ## Linha ou Tupla
 
     É o registro
+
+# Trabalhando com SQL
+
+## Conectando
+
+    -h: é o computador que a gente vai conectar
+    -u: é o usuário
+    -p: é a senha do usuário
